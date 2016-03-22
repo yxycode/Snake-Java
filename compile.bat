@@ -1,0 +1,2 @@
+javac snakegame.java
+pause

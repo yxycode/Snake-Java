@@ -1,0 +1,2 @@
+appletviewer snakegame.html
+pause

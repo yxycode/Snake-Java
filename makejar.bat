@@ -1,0 +1,2 @@
+jar cfm snakegame.jar Manifest.txt snakegame.class GameObject.class InformationBar.class SoundBox.class World.class SnakeHead.class SnakeSegment.class PlayField.class breakup.wav death.wav projectile.wav warp.wav
+pause
